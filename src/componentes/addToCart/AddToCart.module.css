@@ -1,0 +1,17 @@
+.primary {
+  background: "green";
+}
+.warning {
+  background: "yellow";
+}
+.button {
+  padding: 1em;
+}
+
+.fondoCarrito{
+  background-color: #114169;
+  color: white;
+  padding: 10%;
+  margin: 15%;
+  border-radius: 25px;
+}
